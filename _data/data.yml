@@ -3,7 +3,7 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     name: Κωνσταντίνος Πατηνιώτης
-    photo: 'https://i.imgur.com/JJROiFX.jpg'
+    avatar: 'https://i.imgur.com/JJROiFX.jpg'
     email: c15pati@ionio.gr
     tagline: PhD Candidate of Ionian University, Department of Informatics
 
