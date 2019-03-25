@@ -18,6 +18,7 @@ sidebar:
    
     languages:
       - idiom: Greek
+        level: Native
 
       - idiom: English
         level: Professional
@@ -73,48 +74,33 @@ education:
           - Bullet point
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-
-          - Bullet point
-          - Bullet point
-
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
-
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+    - role: Librarian \ Administrative assistant
+      time: 02/06/2007–31/12/2008
+      company: 6th Ephorate of Prehistoric and Classical Antiquities, Patras (Greece) 
+      
+    - role: Librarian \ Administrative Assistant
+      time: 18/12/2009–17/08/2010
+      company: University of Patras, Patras (Greece) 
+      
+    - role: Librarian \ Administrative Assistant
+      time: 23/01/2012–23/09/2012
+      company: Technical Educational Institution of Patras, Patras (Greece) 
+      
+   - role: Digital and Managed Research Support of Co-funded Works
+      time: 02/03/2015–02/08/2015
+      company: Hellenic Open University, Patras (Greece) 
+      
+   - role: Development of modern Open Access digital library services in the University of Thessaly – EP Digital Convergence
+      time: 02/07/2015–30/11/2015
+      company: University of Thessaly, Volos (Greece) 
+      
+  - role: Librarian / Administrative Assistant
+      time: 01/12/2015–31/07/2016
+      company: School of Pedagogical and Technological Education (ASPETE), Athens (Greece)  
+      
+  - role: Digital and Librarian document management
+      time: 09/01/2017–31/07/2017
+      company: ELIDOC, Αθήνα (Greece)   
 
 projects:
     title: Projects
