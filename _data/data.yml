@@ -25,7 +25,7 @@ sidebar:
         level: Professional
 
       - idiom: French
-        level: Entry
+        level: Intermediate
     interests:
       - item: Educational Games
         link: https://youtu.be/UPvG0ledn9U
@@ -105,6 +105,9 @@ skills:
 
       - name: Piskel
         level: 90%
+        
+      - name: Asesprite
+        level: 100%
 
       - name: HTML5 & CSS
         level: 40%
