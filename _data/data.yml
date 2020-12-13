@@ -88,17 +88,17 @@ publications:
     papers:
       - title: Enhancing Collaborative STEM Learning through Multiplayer Online Videogames
         conference: Foundations of Digital Games, Malmo, Sweden, 2018.
-      - Vassilakis, N., Garneli, V., Patiniotis, K., Deliyannis, I., & Chorianopoulos, K. (2019, September). 
-        Adapting a Classic Platform Video Game to the Carbohydrate Counting Method for Insulin-Dependent Diabetics. 
+      - title: Vassilakis, N., Garneli, V., Patiniotis, K., Deliyannis, I., & Chorianopoulos, K. (2019, September). 
+        conference: Adapting a Classic Platform Video Game to the Carbohydrate Counting Method for Insulin-Dependent Diabetics. 
         In Proceedings of the 5th EAI International Conference on Smart Objects and Technologies for Social Good (pp. 149-154).
-      - Garneli, V., Patiniotis, K., & Chorianopoulos, K. (2019). 
-        Integrating Science Tasks and Puzzles in Computer Role Playing Games. 
+      - title: Garneli, V., Patiniotis, K., & Chorianopoulos, K. (2019). 
+        conference: Integrating Science Tasks and Puzzles in Computer Role Playing Games. 
         Multimodal Technologies and Interaction, 3(3), 55.
-      - Garneli, V., Sotides, C., Patiniotis, K., Deliyannis, I., & Chorianopoulos, K. (2019, November). 
-        Designing a 2D Platform Game with Mathematics Curriculum. 
+      - title: Garneli, V., Sotides, C., Patiniotis, K., Deliyannis, I., & Chorianopoulos, K. (2019, November). 
+        conference: Designing a 2D Platform Game with Mathematics Curriculum. 
         In International Conference on Games and Learning Alliance (pp. 42-51). Springer, Cham.
-      - Garneli, V., Patiniotis, K., & Chorianopoulos, K. (2020, December). Game Mechanics of a 
-        Character Progression Multiplayer Role-Playing Game with Science Content. 
+      - title: Garneli, V., Patiniotis, K., & Chorianopoulos, K. (2020, December). Game Mechanics of a 
+        conference: Character Progression Multiplayer Role-Playing Game with Science Content. 
         In International Conference on Games and Learning Alliance (pp. 415-420). Springer, Cham.
         
 skills:
